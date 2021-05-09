@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(55,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library C:\Users\Aquatic\source\repos\oop_lab_5.1A\Debug\UnitTest1.lib and object C:\Users\Aquatic\source\repos\oop_lab_5.1A\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: bool __thiscall Goods::SetFirst(double)" (?SetFirst@Goods@@QAE_NN@Z) referenced in function "public: __thiscall Goods::Goods(double,int)" (??0Goods@@QAE@NH@Z)
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: bool __thiscall Goods::SetSecond(int)" (?SetSecond@Goods@@QAE_NH@Z) referenced in function "public: __thiscall Goods::Goods(double,int)" (??0Goods@@QAE@NH@Z)
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: bool __thiscall Goods::Init(double,int)" (?Init@Goods@@QAE_NNH@Z) referenced in function "public: void __thiscall UnitTest1::UnitTest1::TestCost(void)" (?TestCost@UnitTest1@1@QAEXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: double __thiscall Goods::cost(void)" (?cost@Goods@@QAENXZ) referenced in function "public: void __thiscall UnitTest1::UnitTest1::TestCost(void)" (?TestCost@UnitTest1@1@QAEXXZ)
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\Debug\UnitTest1.dll : fatal error LNK1120: 4 unresolved externals

@@ -1,0 +1,15 @@
+﻿  Bad_exception.cpp
+  Exception.cpp
+  Goods.cpp
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(55,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.cpp(116,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  oop_lab_5.1A.cpp
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.1A\oop_lab_5.1A\Goods.h(55,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  oop_lab_5.1A.vcxproj -> C:\Users\Aquatic\source\repos\oop_lab_5.1A\Debug\oop_lab_5.1A.exe
